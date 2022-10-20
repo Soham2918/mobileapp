@@ -431,6 +431,9 @@ h3{
     font-weight: bolder; 
     font-size:larger;  
 }
+.cat h3{
+    color: deeppink;
+}
 
 articel>button{
     padding:2% 4% 2% 4%;
