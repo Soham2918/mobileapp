@@ -4,6 +4,7 @@
 }
 
 body{
+    width:600vh
     background-color: burlywood;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -426,8 +427,9 @@ h3>span{
 }
 
 h3{
-    color: deeppink;
-    font-weight: lighter;   
+    color: black;
+    font-weight: bolder; 
+    font-size:larger;  
 }
 
 articel>button{
